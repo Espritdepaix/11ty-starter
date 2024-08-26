@@ -24,7 +24,7 @@
     "email": "jonas.ulrich@kickstartds.com"
   },
   "dependencies": {
-    "@kickstartds/base": "^4.0.2",
+    "@kickstartds/base": "^4.0.5",
     "@kickstartds/blog": "^4.0.2",
     "@kickstartds/core": "^4.0.2",
     "@kickstartds/ds-agency": "^3.6.17"
